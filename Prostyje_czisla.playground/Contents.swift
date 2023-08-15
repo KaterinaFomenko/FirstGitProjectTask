@@ -284,5 +284,11 @@ print(corteg.4 % 2 == 0 ? "\(corteg.4) - number is even" : "")
 
 Не могу решить третью задачу
  
- 
-*/
+ let rкange = -10000...10000000
+ for element in rкange {
+     if element < 0 {
+         if element % 2 == 0 {
+             print("\(element) - even number")
+     }
+   }
+ }*/
