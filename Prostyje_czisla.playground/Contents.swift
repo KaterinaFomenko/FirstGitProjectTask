@@ -291,4 +291,7 @@ print(corteg.4 % 2 == 0 ? "\(corteg.4) - number is even" : "")
              print("\(element) - even number")
      }
    }
+ 
+ // Создай 4 ветку и отправь pool request
+ 
  }*/
